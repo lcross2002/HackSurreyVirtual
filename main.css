@@ -1,0 +1,45 @@
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+h1 { 
+    display: block;
+    font-size: 32px;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    color: black;
+    text-shadow: 1px 1px 1px red,
+             2px 2px 1px red;
+    font-weight: bold;
+}
+
+p {
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
+
+div {
+    width: 500px;
+    border: 2px outset black;
+    background-color: lightblue;
+    text-align: center;
+}
