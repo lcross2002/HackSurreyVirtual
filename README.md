@@ -3,7 +3,7 @@ Repo for Hack Surrey Virtual
 
 This is a basic TODO list website made for Hack Surrey Virtual
 
-Functionality.
+Functionality
 The user can add tasks
 The user can complete tasks
 The user can view their tasks
